@@ -72,4 +72,4 @@ Ownership or critical project data becomes changeable.
 2. https://infosecwriteups.com/how-i-made-vertical-privilege-escalation-through-request-manipulation-98cfef624740  
 3. https://krontech.com/privilege-escalation-explained-types-cases-and-prevention  
 4. https://medium.com/@afi0pchik/finding-broken-access-control-in-multi-tenant-systems-2fa95ee0dfa6  
-5. https://outpost24.com/blog/broken-access-control-and-scanners/?utm_source=chatgpt.com
+5. https://outpost24.com/blog/broken-access-control-and-scanners
