@@ -62,8 +62,8 @@ This makes protected fields changeable.
 `Object.assign(project, req.body)`
 
 Ownership or critical project data becomes changeable.
-
 [Click to view the code](./vulnerable/routes/projects.js)
+
 ---
 
 
